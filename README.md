@@ -1,4 +1,3 @@
-# PomodoTick
 
 # PomodoTick - Pomodoro Timer
 
@@ -11,7 +10,7 @@ PomodoTick is a simple Pomodoro timer web application developed by Sarthak Lal. 
 - **Controls**: Buttons to start, pause, reset the timer, and take a break.
 - **Session Counter**: Keeps track of completed work sessions.
 - **Settings**: Allows users to customize the duration of work and break sessions.
-- **Clock Emoji**: A clock emoji added to the title for visual appeal.
+- **Clock Emoji**: A clock emoji was added to the title for visual appeal.
 
 ## Usage
 
