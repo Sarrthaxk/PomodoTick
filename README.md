@@ -31,7 +31,7 @@ If you want to contribute or customize PomodoTick further, you can clone the rep
 ```bash
 git clone https://github.com/yourusername/pomodotick.git
 ```
-Credits
+## Credits
 - Developer: Sarthak Lal
 - Clock Icon: Clock icon used for the favicon.
 - Video Background: Video background is used for visual aesthetics.
